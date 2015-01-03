@@ -1,4 +1,4 @@
 shulinchen.github.io
 ====================
 
-Something big is gonna happen here!
+This is the dev for dvc assist website.
